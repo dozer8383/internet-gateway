@@ -1,0 +1,13 @@
+global_palette.h
+global_palette.c
+background.h
+background.c
+errorbackground.h
+errorbackground.c
+downloadbackground.h
+downloadbackground.c
+logobackground.h
+logobackground.c
+loading.h
+loading.c
+gfx.h
