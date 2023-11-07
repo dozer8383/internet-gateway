@@ -103,7 +103,7 @@ int main(void) {
         gfx_SetTextFGColor(3);
         gfx_PrintStringXY("No existing data was found.",50,60);
         gfx_PrintBoldStringXY("Purchase a Gateway cable",50,80);
-        gfx_PrintBoldStringXY("by calling 940-765-6907.",50,95);
+        gfx_PrintBoldStringXY("by (redacted).",50,95);
         gfx_PrintBoldStringXY("If you already purchased it,",50,110);
         gfx_PrintBoldStringXY("select 'User Manual' from",50,125);
         gfx_PrintBoldStringXY("the main menu. Press any",50,140);
